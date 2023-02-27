@@ -1,10 +1,8 @@
 ### Mario Portillo Hernaiz
 
-![Profile views](https://gpvc.arturio.dev/[github-profile-views-counter])
+![Profile views](https://gpvc.arturio.dev/[marioportillohernaiz])
 
 <!--
-**marioportillohernaiz/marioportillohernaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
