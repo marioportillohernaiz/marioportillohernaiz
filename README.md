@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/[marioportillohernaiz])
 
-Second Year student studying at Loughborough University for a Computer Science Degree. Averaging a 1:1 in first and second year.
+Second Year student studying at Loughborough University for a Computer Science Degree. Passed first year with a 1:1 and averaging a 1:1 in second year.
 
 <!--
 Here are some ideas to get you started:
