@@ -2,8 +2,7 @@
 
 <h4>I'm a Second Year student studying at Loughborough University for a Computer Science Degree. Passed first year with a 1:1 and averaging a 1:1 in second year.</h4>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioportillohernaiz" alt="marioportillohernaiz" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marioportillohernaiz&label=Profile%20views&color=0e75b6&style=flat" alt="marioportillohernaiz" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
