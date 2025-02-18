@@ -1,6 +1,10 @@
 ### Mario Portillo Hernaiz
 
-<h4>Hey! I'm a Second Year student studying at Loughborough University for a Computer Science Degree. Skilled in various low-level and high-level languages and averaging a 1:1 in first and second year.</h4>
+<h4>Hey! I'm a Third Year student studying at Loughborough University for a Computer Science Degree. Skilled in various low-level and high-level languages and averaging a 1:1 in first and second year.</h4>
+
+<p align="left">Connect with Me!</p>
+<a href="https://www.linkedin.com/in/marioportillohernaiz/" target="_blank" rel="noreferrer"> LinkedIn </a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioportillohernaiz&label=Profile%20views&color=0e75b6&style=flat" alt="marioportillohernaiz" /> </p>
 
